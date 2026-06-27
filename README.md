@@ -18,12 +18,9 @@ Este projeto foi desenvolvido em parceria com a **Agromax Agropecuária LTDA**, 
 ---
 
 ## 💼 Business Model Canvas
-O desenvolvimento desta solução foi guiado pelo *Business Model Canvas*, mapeando a proposta de valor e a estrutura de negócio da empresa.
+O desenvolvimento desta solução foi guiado pelo *Business Model Canvas*, mapeando a proposta de valor e a estrutura de negócio da Agromax.
 
-<div align="center">
-  <img src="Canvas.pdf" alt="Business Model Canvas" width="700px">
-</div>
-
+- **Visualizar o Canvas:** [Clique aqui para abrir o documento do Canvas](Canvas.pdf)
 ---
 
 ## 💡 Justificativa
