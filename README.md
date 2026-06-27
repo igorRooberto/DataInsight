@@ -16,8 +16,9 @@ O excesso de informações no ambiente corporativo frequentemente resulta na sob
 Consequentemente, organizações enfrentam quedas de produtividade e prejuízos financeiros devido à incapacidade de identificar visualmente e em tempo hábil os gargalos operacionais. Portanto, a aplicação de boas práticas de design e o foco na Experiência do Usuário (UX) transcendem o aspecto estético, configurando-se como uma necessidade técnica e estratégica para garantir que a tomada de decisão seja rápida, segura e assertiva.
 
 ## 🎓 Informações Acadêmicas
+**Instituição:** UNICEPLAC - DF  
 **Curso:** Engenharia de Software - Presencial  
-**Orientador:** Osmam Brás de Souto  
+**Orientador:** Osmam Brás de Souto
 
 ### 👥 Equipe 
 * Jhonatan Pereira da Cruz
