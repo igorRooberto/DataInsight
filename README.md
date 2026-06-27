@@ -13,7 +13,7 @@
 ## 🤝 Parceiro do Projeto
 Este projeto foi desenvolvido em parceria com a **Agromax Agropecuária LTDA**, localizada em Luziânia-GO. O objetivo central é otimizar a gestão de insumos, fluxo de caixa e estoque através de interfaces intuitivas.
 
-- **Carta de Aceite:** [Clique aqui para visualizar o documento assinado](2e7c5bca07618276078b83b12b178439-Modelo_de_carta_de_aceite_assinado.pdf)
+- **Carta de Aceite:** [Clique aqui para visualizar o documento assinado](Carta_De_Aceite.pdf.pdf)
 
 ---
 
