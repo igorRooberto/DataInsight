@@ -45,4 +45,22 @@ Consequentemente, organizações enfrentam quedas de produtividade e prejuízos 
 
 ---
 
+## 📸 Telas do Projeto (Protótipos)
+<div align="center">
+  <img src="Imagem_Prototipo.png" alt="Telas do Sistema" width="700px">
+</div>
+
+---
+
+## 📋 Organização e Metodologia
+Utilizamos o Trello para o gerenciamento das atividades, aplicando metodologias ágeis.
+
+<div align="center">
+  <img src="Trello.png" alt="Quadro do Trello" width="700px">
+  <br><br>
+  <h3>Equipe do Projeto</h3>
+  <img src="Foto_Da_Equipe.png" alt="Foto da Equipe" width="600px">
+</div>
+
+
 
