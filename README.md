@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="logo.png" alt="Data Insight Logo" width="250">
+  <img src="Logo_Data_Insight.jpeg" alt="Data Insight Logo" width="250">
   <br>
   Gestão e Visualização de Dados em Interfaces
 </h1>
