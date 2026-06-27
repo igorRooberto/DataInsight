@@ -10,6 +10,22 @@
 
 ---
 
+## 🤝 Parceiro do Projeto
+Este projeto foi desenvolvido em parceria com a **Agromax Agropecuária LTDA**, localizada em Luziânia-GO. O objetivo central é otimizar a gestão de insumos, fluxo de caixa e estoque através de interfaces intuitivas.
+
+- **Carta de Aceite:** [Clique aqui para visualizar o documento assinado](2e7c5bca07618276078b83b12b178439-Modelo_de_carta_de_aceite_assinado.pdf)
+
+---
+
+## 💼 Business Model Canvas
+O desenvolvimento desta solução foi guiado pelo *Business Model Canvas*, mapeando a proposta de valor e a estrutura de negócio da empresa.
+
+<div align="center">
+  <img src="NOME_DA_IMAGEM_DO_CANVAS.png" alt="Business Model Canvas" width="700px">
+</div>
+
+---
+
 ## 💡 Justificativa
 O excesso de informações no ambiente corporativo frequentemente resulta na sobrecarga cognitiva dos gestores, dificultando a extração de inteligência acionável. Interfaces confusas e compostas por dados desconexos podem retardar o fluxo de trabalho e induzir a erros severos de gestão. 
 
@@ -31,3 +47,5 @@ Consequentemente, organizações enfrentam quedas de produtividade e prejuízos 
 * Guilherme Teixeira Lemos
 
 ---
+
+
