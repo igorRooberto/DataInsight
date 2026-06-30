@@ -45,6 +45,12 @@ Consequentemente, organizações enfrentam quedas de produtividade e prejuízos 
 
 ---
 
+## Link Do Protótipo
+
+https://www.figma.com/make/yuuaRjbtbdTB01Q9YXaVmD/Data-visualization-website?t=HEShVhnj2XHgEXWC-1&preview-route=%2Frelatorios
+
+---
+
 ## 📸 Telas do Projeto (Protótipos)
 <div align="center">
   <img src="Imagem_Prototipo.png" alt="Telas do Sistema" width="700px">
